@@ -1,0 +1,1 @@
+Producto [articulo=a, precio=1, descripcion=1, codigo=1, talla=1, marca=1, color=1]
